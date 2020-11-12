@@ -2,7 +2,7 @@
 
 [![][badge-travis]][build-travis] [![][badge-appveyor]][build-appveyor] ![][badge-python]
 
-The project focuses on the artificial intelligence of the [Snake][wiki-snake] game. The snake's goal is to eat the food continuously and fill the map with its bodies as soon as possible. 
+The project focuses on the artificial intelligence of the [Snake][wiki-snake] game. The snake's goal is to eat the food continuously and fill the map with its bodies as soon as possible.
 
 ***[Algorithms >][doc-algorithms]***
 
@@ -37,8 +37,6 @@ Run unit tests:
 ```
 $ python3 -m pytest -v
 ```
-
-## License
 
 [snake-proj-old]: https://github.com/chuyangliu/Snake/tree/7227f5e0f3185b07e9e3de1ac5c19a17b9de3e3c
 
