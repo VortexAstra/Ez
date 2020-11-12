@@ -7,7 +7,7 @@ Makefile
 
 *.TMP
 *.html
-.
+.DS_Store
 *.pyc
 __pycache__
 *.cache
