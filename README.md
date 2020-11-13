@@ -22,7 +22,9 @@ The problem of finding the optimal solution using machine learning on the exampl
 ### Non-functional
 1. The system must be written in Python;
 2. The user interface should be able to adapt to any screen;
-3. Screen processing speed should be 60 fps.
+3. Screen processing speed should be 60 fps;
+4. Compliance with the geometric standards of the snake and its food, respectively.
+5. Calm colors.
 
 ## Architecture development
 ### Level Context/Container diagram
