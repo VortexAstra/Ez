@@ -4,7 +4,20 @@
 
 The project focuses on the artificial intelligence of the [Snake][wiki-snake] game. The snake's goal is to eat the food continuously and fill the map with its bodies as soon as possible.
 
-***[Algorithms >][doc-algorithms]***
+## Issue
+The problem of finding the optimal solution using machine learning on the example of a classic game
+
+## Requirement
+
+###functional
+
+###non-functional
+
+
+## Architecture development
+
+## Coding and Debugging
+
 
 ## Experiments
 
@@ -37,6 +50,17 @@ Run unit tests:
 ```
 $ python3 -m pytest -v
 ```
+
+
+
+##Utils
+
+***[Algorithms >][doc-algorithms]***
+
+
+
+
+
 
 [snake-proj-old]: https://github.com/chuyangliu/Snake/tree/7227f5e0f3185b07e9e3de1ac5c19a17b9de3e3c
 
