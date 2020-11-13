@@ -4,6 +4,8 @@
 
 The project focuses on the artificial intelligence of the [Snake][wiki-snake] game. The snake's goal is to eat the food continuously and fill the map with its bodies as soon as possible.
 
+Standard approaches to completing the snake game involve a Hamiltonian loop, which is not spectacular because the snake essentially moves along the same path. The ML approach allows you to randomize the snake's behavior, making it closer to the human one. This approach allows you to save data for further analysis and identify the best path for various algorithms.
+
 ## Issue
 The problem of finding the optimal solution using machine learning on the example of a classic game (Snake).
 
@@ -23,6 +25,9 @@ The problem of finding the optimal solution using machine learning on the exampl
 3. Screen processing speed should be 60 fps.
 
 ## Architecture development
+### Level 1
+
+### Level 2
 
 ## Coding and Debugging
 
