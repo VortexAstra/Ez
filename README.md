@@ -6,7 +6,7 @@ The project focuses on the artificial intelligence of the [Snake][wiki-snake] ga
 
 Standard approaches to completing the snake game involve a Hamiltonian loop, which is not spectacular because the snake essentially moves along the same path. The ML approach allows you to randomize the snake's behavior, making it closer to the human one. This approach allows you to save data for further analysis and identify the best path for various algorithms.
 
-**Performed by Artem Ustinov, Kazantsev Lev, Mashenko Bogdan, Petrov Artyom.**
+**Performed by Artem Ustinov, Kazantsev Lev, Mashenko Bogdan, Petrov Artyom(GROUP 3530904/80104).**
 
 ## Issue
 Finding the optimal solution - using machine learning on the example of a classic game (Snake).
