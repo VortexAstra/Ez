@@ -34,9 +34,9 @@ class GameConf:
         # Size
         self.map_rows = 8
         self.map_cols = self.map_rows
-        self.map_width = 260  # pixels
+        self.map_width = 160  # pixels
         self.map_height = self.map_width
-        self.info_panel_width = 255  # pixels
+        self.info_panel_width = 155  # pixels
         self.window_width = self.map_width + self.info_panel_width
         self.window_height = self.map_height
         self.grid_pad_ratio = 0.25
