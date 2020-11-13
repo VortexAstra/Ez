@@ -108,9 +108,6 @@ The three optimization algorithms can be combined to optimize DQN since they are
 
 Among the 8 combinations, **DQN + Prioritized + Duel** achieves the best performance because it receives the highest average snake length. Comparing to natural DQN, not only does it gets higher average snake length, but also lower average snake step, indicating that the snake agent trained by **DQN + Prioritized + Duel** is more efficient in consuming food.
 
-#### Attachments
-
-Please refer to [my presentation][ppt-dqn] for more details (e.g., environment design, network structure, etc).
 
 ## References
 
