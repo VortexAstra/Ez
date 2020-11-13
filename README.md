@@ -30,7 +30,11 @@ The problem of finding the optimal solution using machine learning on the exampl
 
 
 ## Coding and Debugging
-
+A python program was implemented and tested in the Pycharm development environment using some libraries:
+1. pytest
+2. numpy
+3. matplotlib
+4. tensorflow
 
 ## Experiments
 
