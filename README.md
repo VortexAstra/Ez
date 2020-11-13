@@ -5,14 +5,22 @@
 The project focuses on the artificial intelligence of the [Snake][wiki-snake] game. The snake's goal is to eat the food continuously and fill the map with its bodies as soon as possible.
 
 ## Issue
-The problem of finding the optimal solution using machine learning on the example of a classic game
+The problem of finding the optimal solution using machine learning on the example of a classic game (Snake).
 
 ## Requirement
 
-### functional
+### Functional
+1.The system must be able to change the machine learning algorithm (Hamilton, Greedy and DQN);
+2.The system should be able to change the speed of the game demonstration - snake;
+3.The system must be able to stop the game to check the step statistics;
+4.The system must be able to restart the game with new algorithm;
+5.The system must be able to switch to manual control;
+6.The system must select logs with full statistics for each system start.
 
-### non-functional
-
+### Non-functional
+1. The system must be written in Python;
+2. The user interface should be able to adapt to any screen;
+3. Screen processing speed should be 60 fps.
 
 ## Architecture development
 
