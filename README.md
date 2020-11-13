@@ -26,6 +26,7 @@ The problem of finding the optimal solution using machine learning on the exampl
 
 ## Architecture development
 ### Level
+![Иллюстрация к проекту](https://github.com/VortexAstra/software-engineering/blob/master/1.png)
 ![Альтернативный текст](/Users/astra/Documents/6 sem/Konst_PO/software-engineering/picture/1.png)
 ### Level 2
 
