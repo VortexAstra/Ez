@@ -9,9 +9,9 @@ The problem of finding the optimal solution using machine learning on the exampl
 
 ## Requirement
 
-###functional
+### functional
 
-###non-functional
+### non-functional
 
 
 ## Architecture development
