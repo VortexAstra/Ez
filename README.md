@@ -10,12 +10,12 @@ The problem of finding the optimal solution using machine learning on the exampl
 ## Requirement
 
 ### Functional
-1.The system must be able to change the machine learning algorithm (Hamilton, Greedy and DQN);
-2.The system should be able to change the speed of the game demonstration - snake;
-3.The system must be able to stop the game to check the step statistics;
-4.The system must be able to restart the game with new algorithm;
-5.The system must be able to switch to manual control;
-6.The system must select logs with full statistics for each system start.
+1. The system must be able to change the machine learning algorithm (Hamilton, Greedy and DQN);
+2. The system should be able to change the speed of the game demonstration - snake;
+3. The system must be able to stop the game to check the step statistics;
+4. The system must be able to restart the game with new algorithm;
+5. The system must be able to switch to manual control;
+6. The system must select logs with full statistics for each system start.
 
 ### Non-functional
 1. The system must be written in Python;
