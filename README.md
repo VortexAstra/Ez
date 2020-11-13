@@ -25,8 +25,8 @@ The problem of finding the optimal solution using machine learning on the exampl
 3. Screen processing speed should be 60 fps.
 
 ## Architecture development
-### Level 1
-
+### Level
+![Альтернативный текст](/Users/astra/Documents/6 sem/Konst_PO/software-engineering/picture/1.png)
 ### Level 2
 
 ## Coding and Debugging
