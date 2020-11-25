@@ -1,6 +1,6 @@
 # Snake
 
-[![][badge-travis]][build-travis] [![][badge-appveyor]][build-appveyor] ![][badge-python]
+
 
 The project focuses on the artificial intelligence of the [Snake][wiki-snake] game. The snake's goal is to eat the food continuously and fill the map with its bodies as soon as possible.
 
